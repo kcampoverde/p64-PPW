@@ -19,7 +19,7 @@ body {
 
 /* Secciones de encabezado, menú y pie de página (.header, .menu, .footer) */
 .header, .menu, .footer {
-    background-color: #4a90e2;
+    background-color: #298ce7;
     text-align: center;
     padding: 10px;
     color: white;
@@ -28,7 +28,7 @@ body {
 
 /* Sección de contenido (.content) */
 .content {
-    background-color: #4a90e2;
+    background-color: #298ce7;
     flex: 8;
     display: flex;
     flex-direction: column;
@@ -80,13 +80,13 @@ body {
 
 /* Colores de fondo para los elementos de la sección inferior */
 .gray {
-    background-color: gray;
+    background-color: rgb(217, 217, 217);
 }
 
 .blue {
-    background-color: blue;
+    background-color: rgb(21, 105, 183);
 }
 
 .pink {
-    background-color: pink;
+    background-color: rgb(255, 102, 255);
 }
